@@ -1,4 +1,4 @@
-# trash_talker
+# Trash Talker
 
 A new Flutter application.
 
